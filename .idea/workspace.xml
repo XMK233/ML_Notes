@@ -20,23 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e8d831f-9ae1-413c-88f4-a88b05385b47" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ml_models/outlier_detect/lof.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lof_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/hbos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/hbos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/iforest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/iforest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/phbos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/phbos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/20_01_异常检测_HBOS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_01_异常检测_HBOS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/20_01_异常检测_pHBOS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_01_异常检测_pHBOS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/20_02_异常检测_iForest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_02_异常检测_iForest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/20_03_异常检测_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_03_异常检测_KNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/hbos_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/hbos_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/iforest_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/iforest_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/knn_odd_detect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/knn_odd_detect_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/phbos_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/phbos_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/06_优化_拟牛顿法实现(DFP,BFGS).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/06_优化_拟牛顿法实现(DFP,BFGS).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/09_02_决策树_CART.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/09_02_决策树_CART.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_01_集成学习_简介.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_01_集成学习_简介.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_02_集成学习_boosting_adaboost_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_02_集成学习_boosting_adaboost_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_04_集成学习_boosting_提升树.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_04_集成学习_boosting_提升树.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_05_集成学习_boosting_gbm_regressor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_05_集成学习_boosting_gbm_regressor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_06_集成学习_boosting_gbm_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_06_集成学习_boosting_gbm_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_10_集成学习_xgboost_原理介绍及回归树的简单实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_10_集成学习_xgboost_原理介绍及回归树的简单实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_11_集成学习_xgboost_回归的简单实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_11_集成学习_xgboost_回归的简单实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/10_15_集成学习_lightgbm_进一步优化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/10_15_集成学习_lightgbm_进一步优化.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/11_01_EM_GMM引入问题.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/11_01_EM_GMM引入问题.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/11_02_EM_算法框架.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/11_02_EM_算法框架.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/18_02_聚类_层次聚类_AGNES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/18_02_聚类_层次聚类_AGNES.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/18_03_聚类_密度聚类_DBSCAN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/18_03_聚类_密度聚类_DBSCAN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/19_01_降维_奇异值分解(SVD).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/19_01_降维_奇异值分解(SVD).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
